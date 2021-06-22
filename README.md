@@ -1,16 +1,18 @@
 # 202112707_node_final
-
+## base url: http://3.37.62.54:3000
 ## Table
 ### Countries
- - id          - 기본키
- - alpha2Code  - ISO 3166-1 alpha-2 code   
- - alpha3Code  - ISO 3166-1 alpha-3 code   
- - numericCode - ISO 3166-1 numeric code   
- - nameKR      - 한글 국가명
- - nameEN      - ISO 3166-1 영문 국가명
- - createdAt   - 작성일시
- - updatedAt   - 수정일시
- - 데이터 예시
+|columns|description|
+|---|---|
+|id|기본키|
+|alpha2Code|ISO 3166-1 alpha-2 code|   
+|alpha3Code|ISO 3166-1 alpha-3 code|   
+|numericCode|ISO 3166-1 numeric code|   
+|nameKR|한글 국가명|
+|nameEN|ISO 3166-1 영문 국가명|
+|createdAt|작성일시|
+|updatedAt|수정일시|
+데이터 예시
 
 ![country data](https://user-images.githubusercontent.com/73145656/122716676-85bb1800-d2a5-11eb-8cba-633afaea38aa.PNG)
 
